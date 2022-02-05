@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @katsuNakajima
 - 👀 I’m interested in Rust
-- 🌱 I’m currently learning Rust,AWS,embedded and low layer programming
+- 🌱 I’m currently learning Rust,AWS,Web backend,embedded and low layer programming
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me karma.loveless@icloud.com
 
